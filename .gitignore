@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (large, not tracked)
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+# Model checkpoints
+*.h5
+*.keras
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+logs/
+results/logs/
+
+# Results (generated, not tracked)
+results/figures/
+results/features/
+
+# Environment variables
+.env
+.env.local
+
+# Kaggle
+kaggle.json
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Ruff
+.ruff_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
