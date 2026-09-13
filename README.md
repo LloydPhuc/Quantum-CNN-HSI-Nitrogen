@@ -195,18 +195,6 @@ This work integrates four foundational papers:
 
 **Verdict**: Circuit executes **before decoherence** — deployable on real IBM Quantum hardware.
 
----
-
-## 📝 Citation
-
-```bibtex
-@misc{qcnn-hsi-2025,
-  title={Hybrid Quantum-Classical CNN for Hyperspectral Nitrogen Classification},
-  author={Le, Huu Phuc and Le Nguyen, Minh Tan},
-  year={2025},
-  note={Cần Giờ Quantum Remote Sensing Project}
-}
-```
 
 ---
 
